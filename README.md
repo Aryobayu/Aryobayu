@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<!-- 🌠 1. 3D CELESTIAL HEADER ANIMATION WAVE -->
+<!-- 🌠 1. MASTER CELESTIAL HOLOGRAM HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,23,30&height=260&section=header&text=ARYOBAYU&fontSize=62&fontColor=00F5FF&animation=twinkling&fontAlignY=36&desc=%E2%9C%A7%20THE%20SOVEREIGN%20ARCHITECT%20%E2%88%99%203D%20COGNITIVE%20SYSTEMS%20%E2%88%99%20FULL%20STACK%20%E2%9C%A7&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- 💫 2. 3D CYBERNETIC TYPING CONSOLE -->
@@ -17,9 +17,9 @@
 
 <br/><br/>
 
-<!-- 🌐 3. INTERACTIVE LANGUAGE SWITCH TOGGLES (MODAL / ACCORDION) -->
+<!-- 🌐 3. INTERACTIVE LANGUAGE SWITCH TOGGLES -->
 <a href="#-bahasa-indonesia-versi-lengkap">
-  <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9_BAHASA_INDONESIA-AKTIFKAN-00F5FF?style=for-the-badge&logo=googletranslate&logoColor=black&labelColor=070B19" alt="Switch to Indonesian"/>
+  <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9_BAHASA_INDONESIA-BUKA_TAMPILAN-00F5FF?style=for-the-badge&logo=googletranslate&logoColor=black&labelColor=070B19" alt="Switch to Indonesian"/>
 </a>
 &nbsp;&nbsp;
 <a href="#-english-complete-version">
@@ -70,7 +70,31 @@
 
 <br/>
 
-### 🌌 `[EKOSISTEM_UNGGULAN // POPULAR_REPOSITORIES]`
+### 🌌 `[REPOSITORI_POPULER // POPULAR_FLAGSHIP_REPOSITORIES]`
+
+<div align="center">
+
+<!-- Baris 1 Repositori Interaktif -->
+<a href="https://github.com/Aryobayu/DuaDua-Interior">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryobayu&repo=DuaDua-Interior&theme=tokyonight&hide_border=true&bg_color=070B19&title_color=00F5FF&icon_color=BD00FF&text_color=E0E7FF" width="48%"/>
+</a>
+<a href="https://github.com/Aryobayu/Chinterior">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryobayu&repo=Chinterior&theme=tokyonight&hide_border=true&bg_color=070B19&title_color=00F5FF&icon_color=BD00FF&text_color=E0E7FF" width="48%"/>
+</a>
+
+<br/><br/>
+
+<!-- Baris 2 Repositori Interaktif -->
+<a href="https://github.com/Aryobayu/Simple-Store-PPLG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryobayu&repo=Simple-Store-PPLG&theme=tokyonight&hide_border=true&bg_color=070B19&title_color=00F5FF&icon_color=BD00FF&text_color=E0E7FF" width="48%"/>
+</a>
+<a href="https://github.com/Aryobayu/Aryobayu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryobayu&repo=Aryobayu&theme=tokyonight&hide_border=true&bg_color=070B19&title_color=00F5FF&icon_color=BD00FF&text_color=E0E7FF" width="48%"/>
+</a>
+
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -78,57 +102,19 @@
       <h4>🏛️ Divine-Architect v3.5 & Sovereign v4.6</h4>
       <p><b>Agensi Freelance Otonom & Kerangka Kerja Multi-Agen Kognitif Berdaulat</b></p>
       <ul>
-        <li><b>Asymmetric Compute (Komputasi Asimetris):</b> Memindahkan beban penalaran berat (Heavy Reasoning) ke node GPU eksternal (Kaggle/MiroFish) sementara kontrol lokal tetap penuh di laptop Anda.</li>
-        <li><b>Sarah Cognitive Blueprint:</b> Anatomi otak digital: Korteks Prefrontal (Divine Gatekeeper Port 7788), Hipokampus (LanceDB Vector RAG), dan Korteks Motorik (Specialized Agents).</li>
-        <li><b>Multi-MCP Universal Bus:</b> Mengorkestrasi GitHub MCP, Phantom Solana Watcher, Graphify Knowledge Graph (29.777 node), Context7 Docs, dan Selenium Live Scraper.</li>
+        <li><b>Asymmetric Compute:</b> Beban penalaran berat (Heavy Reasoning) dialihkan ke GPU eksternal (Kaggle/MiroFish) sementara kendali tetap berada di tangan Anda.</li>
+        <li><b>Sarah Cognitive Architecture:</b> Korteks Prefrontal (Divine Gatekeeper Port 7788), Hipokampus (LanceDB Vector RAG), dan Korteks Motorik (Specialized Agents).</li>
+        <li><b>Multi-MCP Bus:</b> Mengorkestrasi GitHub MCP, Phantom Solana Watcher, Graphify (29.777 node), Context7 Docs, dan Selenium Live Harvester.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3.12+-070B19?style=flat-square&logo=python&logoColor=00F5FF"/>
-        <img src="https://img.shields.io/badge/FastMCP-070B19?style=flat-square&logo=fastapi&logoColor=BD00FF"/>
-        <img src="https://img.shields.io/badge/LangGraph-070B19?style=flat-square&logo=diagram-next&logoColor=00F5FF"/>
-        <img src="https://img.shields.io/badge/DeepSeek_R1-070B19?style=flat-square&logo=openai&logoColor=FFD700"/>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h4>🏠 DuaDua-Interior & Chinterior</h4>
       <p><b>Platform Showcase Arsitektur & Desain Interior Modern Masa Depan</b></p>
       <ul>
-        <li><b>Pengalaman Digital Mewah:</b> Showcase portofolio arsitektur interior berkecepatan tinggi dengan visual responsif dan tipografi presisi kelas atas.</li>
-        <li><b>Protokol DAOP-2026:</b> Alur kerja sinkronisasi agen ganda (Gemini CLI + OpenCode via AGENTS.md) untuk verifikasi kode empiris bebas regresi.</li>
-        <li><b>Arsitektur Modular:</b> Komponen reaktif yang skalabel dengan transisi dinamis dan performa rendering optimal.</li>
+        <li><b>Pengalaman Digital Mewah:</b> Showcase arsitektur interior berkecepatan tinggi dengan visual responsif dan tipografi presisi.</li>
+        <li><b>Protokol DAOP-2026:</b> Alur sinkronisasi agen kembar (Gemini CLI + OpenCode via AGENTS.md) untuk verifikasi kode empiris bebas regresi.</li>
+        <li><b>Modularitas Skalabel:</b> Komponen reaktif dengan transisi dinamis dan rendering server optimal.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-070B19?style=flat-square&logo=typescript&logoColor=007ACC"/>
-        <img src="https://img.shields.io/badge/Next.js_App_Router-070B19?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-070B19?style=flat-square&logo=tailwind-css&logoColor=00F5FF"/>
-        <img src="https://img.shields.io/badge/PHP_Backend-070B19?style=flat-square&logo=php&logoColor=777BB4"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛒 Simple-Store-PPLG</h4>
-      <p><b>Arsitektur E-Commerce Ringan, Bersih, dan Terstruktur</b></p>
-      <ul>
-        <li>Sistem toko online interaktif dengan alur checkout instan, tata kelola data efisien, dan antarmuka ramah pengguna.</li>
-        <li>Mengedepankan standar clean-code untuk fondasi rekayasa perangkat lunak modern.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5_UI-070B19?style=flat-square&logo=html5&logoColor=E34F26"/>
-        <img src="https://img.shields.io/badge/JavaScript_Core-070B19?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🪐 Celestial Automation & Intelligence Suite</h4>
-      <p><b>Asisten Desktop Mandiri (HUD di Layar) & Scraper Web Selenium</b></p>
-      <ul>
-        <li><b>Selenium + GitHub MCP Harvester:</b> Riset live tren Bitcoin mining, firmware ASIC, dan analitik on-chain terupdate.</li>
-        <li><b>Self-Healing Sentinel:</b> Perlindungan otomatis (circuit breaker & auto-retry) yang mendeteksi dan memulihkan celah error secara mandiri tanpa crash.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Selenium_Scraper-070B19?style=flat-square&logo=selenium&logoColor=00F5FF"/>
-        <img src="https://img.shields.io/badge/Zero--Trust_Guard-070B19?style=flat-square&logo=shield&logoColor=BD00FF"/>
-      </p>
     </td>
   </tr>
 </table>
@@ -167,7 +153,29 @@
 
 <br/>
 
-### 🌌 `[FLAGSHIP_PROJECTS // POPULAR_REPOSITORIES]`
+### 🌌 `[POPULAR_REPOSITORIES // FLAGSHIP_MATRIX]`
+
+<div align="center">
+
+<a href="https://github.com/Aryobayu/DuaDua-Interior">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryobayu&repo=DuaDua-Interior&theme=tokyonight&hide_border=true&bg_color=070B19&title_color=00F5FF&icon_color=BD00FF&text_color=E0E7FF" width="48%"/>
+</a>
+<a href="https://github.com/Aryobayu/Chinterior">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryobayu&repo=Chinterior&theme=tokyonight&hide_border=true&bg_color=070B19&title_color=00F5FF&icon_color=BD00FF&text_color=E0E7FF" width="48%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Aryobayu/Simple-Store-PPLG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryobayu&repo=Simple-Store-PPLG&theme=tokyonight&hide_border=true&bg_color=070B19&title_color=00F5FF&icon_color=BD00FF&text_color=E0E7FF" width="48%"/>
+</a>
+<a href="https://github.com/Aryobayu/Aryobayu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryobayu&repo=Aryobayu&theme=tokyonight&hide_border=true&bg_color=070B19&title_color=00F5FF&icon_color=BD00FF&text_color=E0E7FF" width="48%"/>
+</a>
+
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -175,16 +183,10 @@
       <h4>🏛️ Divine-Architect v3.5 & Sovereign v4.6</h4>
       <p><b>Autonomous Freelance Agency & Cognitive Multi-Agent Framework</b></p>
       <ul>
-        <li><b>Asymmetric Compute:</b> Offloads heavy reasoning tasks to remote GPU clusters (Kaggle/MiroFish) while keeping command sovereignty strictly local on your laptop.</li>
-        <li><b>Sarah Cognitive Architecture:</b> Prefrontal Cortex (Divine Gatekeeper Port 7788), Hippocampus (LanceDB Vector RAG), and Motor Cortex (Autonomous Execution Agents).</li>
-        <li><b>Multi-MCP Universal Bus:</b> Harmonizes GitHub MCP, Phantom Solana Watcher, Graphify Knowledge Graph (29,777 nodes), Context7 Docs, and Selenium Harvester.</li>
+        <li><b>Asymmetric Compute:</b> Heavy reasoning offloaded to remote GPU clusters (Kaggle/MiroFish) while local sovereignty is preserved.</li>
+        <li><b>Sarah Cognitive Architecture:</b> Prefrontal Cortex (Divine Gatekeeper Port 7788), Hippocampus (LanceDB RAG), and Motor Cortex (Execution Agents).</li>
+        <li><b>Multi-MCP Bus:</b> Harmonizes GitHub MCP, Phantom Solana Watcher, Graphify (29,777 nodes), Context7 Docs, and Selenium Live Harvester.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3.12+-070B19?style=flat-square&logo=python&logoColor=00F5FF"/>
-        <img src="https://img.shields.io/badge/FastMCP-070B19?style=flat-square&logo=fastapi&logoColor=BD00FF"/>
-        <img src="https://img.shields.io/badge/LangGraph-070B19?style=flat-square&logo=diagram-next&logoColor=00F5FF"/>
-        <img src="https://img.shields.io/badge/DeepSeek_R1-070B19?style=flat-square&logo=openai&logoColor=FFD700"/>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h4>🏠 DuaDua-Interior & Chinterior</h4>
@@ -194,38 +196,6 @@
         <li><b>DAOP-2026 Protocol:</b> Multi-agent synchronization (Gemini CLI + OpenCode via AGENTS.md) enforcing continuous empirical testing and regression-free delivery.</li>
         <li><b>Modular Architecture:</b> Scalable reactive components designed with sleek dynamic transitions and high-performance server rendering.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-070B19?style=flat-square&logo=typescript&logoColor=007ACC"/>
-        <img src="https://img.shields.io/badge/Next.js_App_Router-070B19?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-070B19?style=flat-square&logo=tailwind-css&logoColor=00F5FF"/>
-        <img src="https://img.shields.io/badge/PHP_Backend-070B19?style=flat-square&logo=php&logoColor=777BB4"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛒 Simple-Store-PPLG</h4>
-      <p><b>Lightweight Modular E-Commerce Architecture</b></p>
-      <ul>
-        <li>Interactive online storefront featuring friction-free transaction pipelines and clean state management.</li>
-        <li>Structured on modern clean-code principles as a reference for scalable web software engineering.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5_UI-070B19?style=flat-square&logo=html5&logoColor=E34F26"/>
-        <img src="https://img.shields.io/badge/JavaScript_Core-070B19?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🪐 Celestial Automation & Intelligence Suite</h4>
-      <p><b>Autonomous Desktop HUD & Selenium Web Harvester</b></p>
-      <ul>
-        <li><b>Selenium + GitHub MCP Harvester:</b> Automated live intelligence gathering for Bitcoin mining trends, ASIC firmware updates, and on-chain analytics.</li>
-        <li><b>Self-Healing Sentinel:</b> Resilient architecture featuring circuit breakers and automatic retry loops to eliminate runtime faults autonomously.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Selenium_Scraper-070B19?style=flat-square&logo=selenium&logoColor=00F5FF"/>
-        <img src="https://img.shields.io/badge/Zero--Trust_Guard-070B19?style=flat-square&logo=shield&logoColor=BD00FF"/>
-      </p>
     </td>
   </tr>
 </table>
@@ -258,7 +228,7 @@
 
 <div align="center">
 
-<!-- 3D Contribution Star Isometric Graph -->
+<!-- 3D Profile Trophies -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-profile-trophy.vercel.app/?username=Aryobayu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4">
@@ -280,27 +250,29 @@
 
 ---
 
-### 🌟 `[GRAFIK_KONTRIBUSI_GALAKSI // CELESTIAL_3D_FLOW]`
+### 🌌 `[KARTU_ANALITIK_PRODUKTIVITAS // 3D_INTELLIGENCE_METRICS]`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryobayu&bg_color=070B19&color=00F5FF&line=BD00FF&point=FFD700&area=true&area_color=00F5FF18&hide_border=true&radius=10" width="100%" alt="Celestial 3D Activity Graph"/>
+
+<!-- Summary Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryobayu&theme=tokyonight" width="100%" alt="Aryobayu Profile Details Card"/>
+
+<br/><br/>
+
+<!-- Productive Time & Repos Per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryobayu&theme=tokyonight" width="49%" alt="Aryobayu Productive Time Card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryobayu&theme=tokyonight" width="49%" alt="Aryobayu Repos Per Language Card"/>
+
 </div>
 
 <br/>
 
 ---
 
-### 🐍 `[ANIMASI_KUANTUM_3D // QUANTUM_SNAKE_FLOW]`
+### 🐍 `[ANIMASI_KUANTUM_SNAKE // GALAXY_SNAKE_FLOW]`
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Aryobayu/Aryobayu/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Aryobayu/Aryobayu/output/github-snake.svg">
-  <img alt="3D Hologram Quantum Snake"
-    src="https://raw.githubusercontent.com/Aryobayu/Aryobayu/output/github-snake-dark.svg">
-</picture>
+  <img src="https://raw.githubusercontent.com/Aryobayu/Aryobayu/output/snake.svg" width="100%" alt="Aryobayu Quantum Snake Animation"/>
 </div>
 
 <br/>
