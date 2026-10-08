@@ -259,9 +259,9 @@
 
 <br/><br/>
 
-<!-- Productive Time & Repos Per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryobayu&theme=tokyonight" width="49%" alt="Aryobayu Productive Time Card"/>
+<!-- Repos Per Language & Most Commit Language -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryobayu&theme=tokyonight" width="49%" alt="Aryobayu Repos Per Language Card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryobayu&theme=tokyonight" width="49%" alt="Aryobayu Most Commit Language Card"/>
 
 </div>
 
