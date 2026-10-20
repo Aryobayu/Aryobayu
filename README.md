@@ -53,18 +53,18 @@
 
 ```yaml
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                 CELESTIAL SOVEREIGN NODE MATRIX // 2026                               ║
+║                                CELESTIAL SOVEREIGN NODE MATRIX // 2026                                ║
 ╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║  Arsitek / Architect    : Aryobayu (The Sovereign Mastermind)                                         ║
-║  Koordinat / Location   : Indonesia 🇮🇩 [Celestial Hub]                                                 ║
+║  Koordinat / Location   : Indonesia [Celestial Hub]                                                   ║
 ║  Peran / Primary Role   : Full Stack Architect & Autonomous Systems Strategist                        ║
 ║  Mesin Inti / Core      : Divine Architect v3.5 (Sovereign Cognitive Ecosystem v4.6)                  ║
 ║  Pilot Ganda / Pilots   : Gemini CLI (Pilot-A / Strategis) & OpenCode (Pilot-B / Auditor Kode)        ║
 ║  Penalaran / Reasoning  : Asymmetric Compute — MiroFish Swarm Simulation & Kaggle DeepSeek-R1 (T3)    ║
 ║  Memori / Knowledge Mesh: Graphify (29.777 Entitas/Nodes) + LanceDB RAG (Sarah Hippocampus)           ║
 ║  Keuangan / Finance Mesh: Phantom Solana MCP Bridge (Pengawas Portofolio Berbasis Zero-Trust)         ║
-║  Standar Kualitas / QA  : Empirical Verification (Pytest TDD + Strict Ruff Linting + Clean-Code)     ║
-║  Visi / Stellar Vision  : "Menyatukan intuisi manusia dengan konstelasi kecerdasan AI terdistribusi"   ║
+║  Standar Kualitas / QA  : Empirical Verification (Pytest TDD + Strict Ruff Linting + Clean-Code)      ║
+║  Visi / Stellar Vision  : "Menyatukan intuisi manusia dengan konstelasi kecerdasan AI terdistribusi"  ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -136,18 +136,18 @@
 
 ```yaml
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                 CELESTIAL SOVEREIGN NODE MATRIX // 2026                               ║
+║                                CELESTIAL SOVEREIGN NODE MATRIX // 2026                                ║
 ╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║  Architect    : Aryobayu (The Sovereign Mastermind)                                                   ║
-║  Coordinates  : Indonesia 🇮🇩 [Celestial Hub]                                                          ║
-║  Primary Role : Full Stack Architect & Autonomous Systems Strategist                                   ║
-║  Core Engine  : Divine Architect v3.5 (Sovereign Cognitive Ecosystem v4.6)                             ║
-║  Dual Pilots  : Gemini CLI (Strategist Pilot-A) & OpenCode (Auditor Pilot-B)                           ║
-║  Reasoning T3 : Asymmetric Compute — MiroFish Swarm Simulation & Kaggle DeepSeek-R1 Node               ║
-║  Memory Mesh  : Graphify (29,777 Entities/Nodes) + LanceDB Vector RAG (Sarah Hippocampus)              ║
-║  Finance Mesh : Phantom Solana MCP Bridge (Zero-Trust Portfolio Guardian)                              ║
-║  Quality Gate : Empirical Verification (Pytest TDD + Strict Ruff Linting + Clean Architecture)         ║
-║  Vision       : "Unifying human intuition with distributed cognitive AI constellations"                ║
+║  Coordinates  : Indonesia [Celestial Hub]                                                             ║
+║  Primary Role : Full Stack Architect & Autonomous Systems Strategist                                  ║
+║  Core Engine  : Divine Architect v3.5 (Sovereign Cognitive Ecosystem v4.6)                            ║
+║  Dual Pilots  : Gemini CLI (Strategist Pilot-A) & OpenCode (Auditor Pilot-B)                          ║
+║  Reasoning T3 : Asymmetric Compute — MiroFish Swarm Simulation & Kaggle DeepSeek-R1 Node              ║
+║  Memory Mesh  : Graphify (29,777 Entities/Nodes) + LanceDB Vector RAG (Sarah Hippocampus)             ║
+║  Finance Mesh : Phantom Solana MCP Bridge (Zero-Trust Portfolio Guardian)                             ║
+║  Quality Gate : Empirical Verification (Pytest TDD + Strict Ruff Linting + Clean Architecture)        ║
+║  Vision       : "Unifying human intuition with distributed cognitive AI constellations"               ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
